@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  project.cpp
+d:\programming\ppd\project\opencl\project\project\project.cpp(140): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  kernel.cl
+d:\programming\ppd\project\opencl\project\project\kernel.cl(10): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Generating Code...

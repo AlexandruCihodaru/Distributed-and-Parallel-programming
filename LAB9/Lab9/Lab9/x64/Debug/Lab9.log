@@ -1,0 +1,3 @@
+﻿  Lab9.cpp
+c:\users\alexandru\desktop\teme\ppd\lab9\lab9\lab9\lab9.cpp(21): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab9.vcxproj -> C:\Users\Alexandru\Desktop\teme\ppd\lab9\Lab9\x64\Debug\Lab9.exe

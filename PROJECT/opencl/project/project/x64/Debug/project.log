@@ -1,0 +1,7 @@
+﻿  project.cpp
+d:\programming\ppd\project\opencl\project\project\project.cpp(152): warning C4018: '<': signed/unsigned mismatch
+d:\programming\ppd\project\opencl\project\project\project.cpp(157): warning C4018: '<': signed/unsigned mismatch
+d:\programming\ppd\project\opencl\project\project\project.cpp(184): warning C4018: '<': signed/unsigned mismatch
+d:\programming\ppd\project\opencl\project\project\project.cpp(205): warning C4101: 'me': unreferenced local variable
+d:\programming\ppd\project\opencl\project\project\project.cpp(205): warning C4101: 'size': unreferenced local variable
+  project.vcxproj -> D:\Programming\PPD\PROJECT\opencl\project\x64\Debug\project.exe
